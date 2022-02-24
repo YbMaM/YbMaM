@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YbMaM I’m currently learning C anc Pyrhon.
+- 👋 Hi, I’m @YbMaM I’m currently learning C anc Python.
 
 
 
